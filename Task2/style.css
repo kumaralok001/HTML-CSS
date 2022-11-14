@@ -1,0 +1,53 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.logo {
+    
+    display: flex;
+    justify-content: space-between;
+    /* align-items: stretch; */
+    align-items: center;
+    justify-items: center;
+}
+
+
+#one {
+    background-color: green;
+    border-color: white;
+    width: 80px;
+    height: 30px;
+}
+
+.navbar {
+    width: 20px;
+    height: 10px;
+    justify-items: stretch;
+    text-align: center;
+    flex: auto;
+    justify-items: center;
+   
+
+}
+
+
+
+.same {
+    
+    background-repeat: no-repeat;
+    text-align: center;
+    background-color: transparent;
+    align-items: center;
+    color: aliceblue;
+    margin-top: 30px;
+
+
+}
+
+a {
+    color: green;
+    font-style: italic;
+}
